@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+**/settings.py
+*.sock
+.env
+logs/*
+env
+home/migrations
+api/__pycache__
